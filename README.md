@@ -9,11 +9,13 @@ The scripts include several python docstrings. The method names and code was des
 ### Settings:
 The first segment, the Settings, is where the user will define his racers; giving them a name and a color. The user may then define the number of rounds and the difficulty (Optional as their are default values set). The user may also undo the recently added player. When done, the user may press Start Game to commence the fun!
 
-<img src="RaceMe_README/Pic_1.png" width=600>
+<img src="RaceME_README/Pic_1.png" width=450>
+<img src="RaceME_README/Pic_2.png" width=450>
 
 ### Game:
+The second and main segment, the game, positions the racing lines and racers accordingly. The turtle race then starts and at every finished round, the winner is prompted an arithmetic challenge to solve, if correct, the user is granted 5 points. The next round is then started, etc. When the rounds are over, the Game closes and the leaderboard is brought up.
 
-<img src="RMP_README/Professor.png" width=500>
+
 
 #### LeaderBoard
 <img src="RMP_README/Error.png" width=500>
