@@ -10,9 +10,9 @@ The scripts include several python docstrings. The method names and code was des
 The first segment, the Settings, is where the user will define his racers; giving them a name and a color. The user may then define the number of rounds and the difficulty (Optional as their are default values set). The user may also undo the recently added player. When done, the user may press Start Game to commence the fun!
 
 <p align="center">
-  <img src="RaceME_README/Pic_1.png" width="300">
-&nbsp; &nbsp; &nbsp; &nbsp;
   <img src="RaceME_README/Pic_2.png" width="300">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="RaceME_README/Pic_1.png" width="300">
 </p>
 
 ### Game:
