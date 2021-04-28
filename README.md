@@ -19,9 +19,9 @@ The first segment, the Settings, is where the user will define his racers; givin
 The second and main segment, the game, positions the racing lines and racers accordingly. The turtle race then starts and at every finished round, the winner is prompted an arithmetic challenge to solve, if correct, the user is granted 5 points. The next round is then started, etc. When the rounds are over, the Game closes and the leaderboard is brought up.
 
 <p align="left">
-  <img src="RaceME_README/Pic_3.png" width="430">
+  <img src="RaceME_README/Pic_3.png" width="400">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="RaceME_README/Pic_4.png" width="430">
+  <img src="RaceME_README/Pic_4.png" width="400">
 </p>
 
 ### LeaderBoard
